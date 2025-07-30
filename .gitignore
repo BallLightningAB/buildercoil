@@ -1,0 +1,26 @@
+## 🏷️ `.gitignore`
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/.next
+/out
+
+# misc
+.DS_Store
+.env.local
+.env.*.local
+*.log
+
+# vercel deployment
+.vercel
+
+# optional
+.vscode
+*.swp
