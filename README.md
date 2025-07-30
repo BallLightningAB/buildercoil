@@ -44,3 +44,5 @@ Chronomation (private engine powering automation)
 
 🌐 Domains
 buildercoil.xyz
+
+© 2025 Nicolas Brulay / Ball Lightning AB
