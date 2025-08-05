@@ -1,16 +1,16 @@
-# Builder Coil
+# The Builder Coil
 
-Builder Coil is the public builder’s log of [Nicolas Brulay{Ball Light AB](https://github.com/BallLightningAB), documenting the creation of **Chronomation** — an automation and orchestration engine for modern workflows.
+The Builder Coil is the public builder’s log of [Nicolas Brulay/Ball Lightning AB](https://github.com/BallLightningAB), documenting the creation of **Chronomation** — an automation and orchestration engine for modern workflows.
 
 This repo contains:
 
-- The source for the [buildercoil.xyz](https://buildercoil.xyz) site (built with Next.js + MDX)
+- The source for the [thebuildercoil.com](https://thebuildercoil.com) site (built with Next.js + MDX)
 - Devlogs derived from Chronomation’s changelog
 - Experiments with AI, Agentic Development, automation, publishing, and developer storytelling
 
 ## 🌀 Purpose
 
-Builder Coil serves two goals:
+The Builder Coil serves two goals:
 
 1. **Transparency & Community** – Share the journey of building Chronomation.
 2. **Product Dogfooding** – Test and showcase Chronomation in a real-world, production setting.
@@ -33,7 +33,7 @@ This site is powered by **Chronomation**, which:
 3. Publishes them here to `/posts`
 4. (Optionally) Drafts social media updates
 
-> 🏷️ All relevant issues and commits in the Chronomation repo are tagged with `#buildercoil`.
+> 🏷️ All relevant issues and commits in the private Chronomation repo are tagged with `#thebuildercoil`.
 
 🧠 Tech Stack
 Next.js 15 (App Router)
@@ -43,6 +43,6 @@ GitHub Actions for CI
 Chronomation (private engine powering automation)
 
 🌐 Domains
-buildercoil.xyz
+thebuildercoil.com
 
 © 2025 Nicolas Brulay / Ball Lightning AB
